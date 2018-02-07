@@ -1,7 +1,7 @@
 # Bamazon
 A command line market place.
 
-![Alt Text]('https://gfycat.com/ifr/PhonyQuarrelsomeEwe)
+![Alt Text](https://thumbs.gfycat.com/PhonyQuarrelsomeEwe-size_restricted.gif)
 
 ## How to Buy:money_with_wings:
 ```
