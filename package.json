@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Store inventory database.",
+  "main": "customer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaynaneilson/bamazon.git"
+  },
+  "author": "Jayna Neilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaynaneilson/bamazon/issues"
+  },
+  "homepage": "https://github.com/jaynaneilson/bamazon#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0"
+  }
+}
